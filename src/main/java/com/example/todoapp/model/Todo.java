@@ -39,6 +39,7 @@ public class Todo {
         this.title = title;
     }
 
+
     public boolean isCompleted() {
         return completed;
     }
